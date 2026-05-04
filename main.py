@@ -15,7 +15,7 @@ df['Target'] = df['Target'].map({'Dropout': 1, 'Graduate': 0})
 
 print(f"New shape: {df.shape}")
 # print(f"Remaining Columns: {df.columns.tolist()}")
-# print(f"Unique Categories: {df['Target'].unique()}")
+# print(f"Unique Targets: {df['Target'].unique()}")
 
 X = df.drop(columns=['Target'])
 y = df['Target']
