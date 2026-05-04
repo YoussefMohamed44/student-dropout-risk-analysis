@@ -34,7 +34,7 @@ The model demonstrates high stability and discriminative power, validated throug
 ## ⚙️ How to Run
 1. **Clone the repository**:
 ```bash
-   git clone https://github.com/your-username/student-dropout-risk-analysis.git
+   git clone https://github.com/YoussefMohamed44/student-dropout-risk-analysis.git
    cd student-dropout-risk-analysis
 ```
 
